@@ -4,5 +4,6 @@ def say_hello(language = "Ruby Programmer!", name)
     puts "Hello " + name + "!"
   else
     puts "Hello " + language
+  end
 end
 
